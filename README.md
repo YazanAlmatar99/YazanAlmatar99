@@ -27,7 +27,7 @@ Anticipated Graduation Date: August 2021
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ***
 #### Hobbies
-* Photograph 📸 
+* Photography 📸 
 * Chess ♟ 
 * Solving Mathematical Puzzles 🧩 
 
