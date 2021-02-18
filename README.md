@@ -31,6 +31,7 @@ Anticipated Graduation Date: August 2021
 * Chess ♟ 
 * Solving Mathematical Puzzles 🧩 
 
+![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanalmatar99&show_icons=true&theme=dark)
 
 
 <!--
