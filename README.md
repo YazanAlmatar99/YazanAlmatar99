@@ -9,6 +9,7 @@ Anticipated Graduation Date: August 2021
 ### What are my skills? 
 #### Languages 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -17,6 +18,7 @@ Anticipated Graduation Date: August 2021
 #### Frameworks and Libraries
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Typescript](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
