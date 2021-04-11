@@ -1,7 +1,7 @@
 # Hello there 👋
 Hi, I'm Yazan, I'm an aspiring Full-Stack Engineer pursuing a Bachelors Degree in Computer Science at CSI in New York City.
 
-Anticipated Graduation Date: August 2021
+Anticipated Graduation Date: July 2021
 ### How to contact me? ☎️ 
 [![Linkedin Badge](https://img.shields.io/badge/-Yazan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazanalmatar/)](https://www.linkedin.com/in/yazanalmatar/)
 [![Gmail Badge](https://img.shields.io/badge/-me@yazanalmatar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@yazanalmatar.com)](mailto:me@yazanalmatar.com)
