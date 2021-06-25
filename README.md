@@ -1,7 +1,6 @@
 # Hello there 👋
-Hi, I'm Yazan, I'm an aspiring Full-Stack Engineer pursuing a Bachelors Degree in Computer Science at CSI in New York City.
+Hi, I'm Yazan, I'm a Full-Stack Engineer with a Bachelor Degree in Computer Science.
 
-Anticipated Graduation Date: July 2021
 ### How to contact me? ☎️ 
 [![Linkedin Badge](https://img.shields.io/badge/-Yazan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazanalmatar/)](https://www.linkedin.com/in/yazanalmatar/)
 [![Gmail Badge](https://img.shields.io/badge/-me@yazanalmatar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@yazanalmatar.com)](mailto:me@yazanalmatar.com)
@@ -9,17 +8,20 @@ Anticipated Graduation Date: July 2021
 ### What are my skills? 
 #### Languages 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ***
 #### Frameworks and Libraries
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Hibernate](https://img.shields.io/badge/-hibernate-black?style=flat-square&logo=hibernate)
 ![Typescript](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
