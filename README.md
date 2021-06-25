@@ -13,7 +13,7 @@ Hi, I'm Yazan, I'm a Full-Stack Engineer with a Bachelor Degree in Computer Scie
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
 ***
 #### Frameworks and Libraries
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
