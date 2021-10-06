@@ -7,10 +7,10 @@ Hi, I'm Yazan, I'm a Full-Stack Engineer with a Bachelor Degree in Computer Scie
 
 ### What are my skills? 
 #### Languages 
+![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
