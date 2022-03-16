@@ -7,10 +7,10 @@ Hi, I'm Yazan, I'm a Full-Stack Engineer with a Bachelor Degree in Computer Scie
 
 ### What are my skills? 
 #### Languages 
+![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=Swift)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
@@ -20,11 +20,10 @@ Hi, I'm Yazan, I'm a Full-Stack Engineer with a Bachelor Degree in Computer Scie
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 ![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
 ![Hibernate](https://img.shields.io/badge/-hibernate-black?style=flat-square&logo=hibernate)
-![Typescript](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
 
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=SQL)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
