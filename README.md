@@ -8,6 +8,7 @@ Hi, I'm Yazan, I'm a Software Engineer @ JP Morgan Chase. Currently pursuing my 
 ### What are my skills? 
 #### Languages 
 ![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
+![React](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
