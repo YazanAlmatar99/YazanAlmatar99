@@ -3,7 +3,7 @@ Hi, I'm Yazan, I'm a Software Engineer @ JP Morgan Chase. Currently pursuing my 
 
 ### How to contact me? ☎️ 
 [![Linkedin Badge](https://img.shields.io/badge/-Yazan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yazanalmatar/)](https://www.linkedin.com/in/yazanalmatar/)
-[![Gmail Badge](https://img.shields.io/badge/-work@yazanalmatar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:work@yazanalmatar.com)](mailto:work@yazanalmatar.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@yazanalmatar.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@yazanalmatar.com)](mailto:contact@yazanalmatar.com)
 
 ### What are my skills? 
 #### Languages 
