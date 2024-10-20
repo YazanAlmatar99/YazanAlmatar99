@@ -35,7 +35,8 @@ Hi, I'm Yazan, I'm a Software Engineer @ JP Morgan Chase. Currently pursuing my 
 * Chess ♟ 
 * Piano 
 
-![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanalmatar99&show_icons=true&theme=dark)
+
+<!--![Yazan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yazanalmatar99&show_icons=true&theme=dark) -->
 
 
 <!--
